@@ -7,5 +7,6 @@ void main(){
   char array[]="third commit";
   
   printf("Nothing to do for now!");
-  printf("Do sth")
+  
+  int a;
 }
